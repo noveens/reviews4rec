@@ -51,7 +51,8 @@ Since running MPCN requires a Python2.7 environment, you will need to modify Lin
 | Non-textual | bias_only **(or)** baseline |  |
 | Non-textual | MF_dot **(or)** NMF |  |
 | Non-textual | SVD **(or)** SVD++ |  |
-| Non-textual | MF |  |
+| Non-textual | MF-dot |  |
+| Non-textual | MF | [MLP only version in NeuMF](http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/proceedings/p173.pdf) |
 | Non-textual | NeuMF | [LINK](http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/proceedings/p173.pdf) |
 | Reviews as regularizer | HFT | [LINK](https://cs.stanford.edu/people/jure/pubs/reviews-recsys13.pdf) |
 | Reviews as features | deepconn **(or)** deepconn++ | [LINK](https://arxiv.org/abs/1701.04783) |
